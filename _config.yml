@@ -1,0 +1,188 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Nikos Oikou
+title: Senior Data Engineer
+email: nicolaosoikou@gmail.com
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username:
+github_username:  nikosoikou
+linkedin_username: nikosoikou
+
+# About Section
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  As a senior data engineer with experience in various data platforms, frameworks, and languages, I am committed to maintaining an exceptional standard of work quality.
+  I give meticulous attention to detail, accuracy, and always strive to develop a deep understanding of task requirements. 
+
+  I aspire to be rock-solid reliable and consider myself a main contributor to the success of my team.
+  I encourage the spirit of teamwork and collaboration.
+
+  I am proud of my work on Disney projects within SambaTV, where I have been recognized for delivering exceptional results that not only meet but often exceed expectations.
+  I possess a great ability to translate product features into tangible tasks, which has helped the Identity Team at SambaTV achieve most of its business goals.
+
+  I am always eager to take on challenging projects that allow me to further develop my skills and contribute to a team’s success.
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: SambaTV
+        link: samba.tv
+        # link_text: boringcompany.com
+        sub_title: Senior Data Engineer
+        caption: October 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+            I am leading a team of seven, providing guidance and support to two data engineers and three of our newest team members, including our two interns and a senior data scientist.
+            I'm taking on the role of a mentor, offering all the help these newcomers need and ensuring that I answer their questions at a level that matches their individual backgrounds and experience levels.
+
+            I am responsible for the design and implementation of all our Identity solutions within SambaTV, by leveraging data processing frameworks such as <mark>BigQuery/SQL</mark>.
+
+            I worked on extending the Private Device Graph to integrate HEM data and on migrating the workflow management to <mark>Apache Airflow</mark>.
+
+            I'm currently developing my expertise in <mark>Snowflake</mark> in order to design, implement, and optimize clean room solutions.
+
+      - layout: left
+        title: SambaTV
+        link: screen6.readme.io
+        sub_title: Data Engineer
+        caption: September 2019 - September 2022
+        description: | # this will include new lines to allow paragraphs
+            My first job as a data engineer. I had applied for a data analyst role, but I was told during the interview process that I had the right skills and experience to be a data engineer, and that I would be a great fit for the team.
+
+            I co-developed the TV Households US Graph, which serves as the backbone of all Identity, Audience and  Measurement at SambaTV.
+            I independently developed the Private Cross-Device Graph for Disney, which is the backbone of Measurement SambaTV does for Disney, and is also the backbone of all Partner integrations SambaTV embarks on with Disney.
+
+            I represented tech in various client communication meetings, and have participated in numerous engineer interviews.
+
+            The tech stack I used includes cloud platforms such as <mark>Google Cloud Platform</mark> and <mark>Amazon Web Services</mark>, the programming languages <mark>Python</mark>, <mark>node.js/JavaScript</mark>, <mark>CoffeeScript</mark> and <mark>SQL</mark> and data processing frameworks like <mark>BigQuery/SQL</mark>, <mark>Amazon Athena/SQL</mark>, <mark>Databricks</mark> and <mark>Apache Airflow</mark>.
+
+      - layout: left
+        title: Kuuhubb
+        link: kuuhubb.com
+        sub_title: Data Scientist
+        caption: April 2018 - August 2019
+        description: | # this will include new lines to allow paragraphs
+            I collaborated with a Growth Strategy Manager to run analyses on pricing, retention and churn for the Recolor Mobile App.
+            The data were extracted from platforms such as iTunes Connect, Google Play Console and Tenjin and analyzed using <mark>BigQuery/SQL</mark> and <mark>Mode Analytics/SQL</mark>.
+
+            I also ran analyses related to the game economy and banner performance of the MyHospital Mobile App. The data were stored in <mark>Vertica</mark> via the DeltaDNA platform.
+
+            In collaboration with a front-end developer, I created a custom PHP dashboard that serves all Kuuhubb reporting.
+            The data wre stored in <mark>Postgres</mark>.
+            I created a RESTful API that pre-aggregated finance and app user statistics. For the backend, I used <mark>Tornado/Python</mark>, for the data storage <mark>MySQL</mark>, <mark>Postman</mark> for testing, and deployed the API on <mark>Heroku</mark>.
+
+            I worked on the backend maintenance of the Recolor App, which uses <mark>Tornado/Python</mark>, <mark>Amazon RDS</mark> and <mark>Firebase</mark>.
+
+            I also worked on the backend maintenance of the Perfect Earth Mobile App, which is written in <mark>Djano/Python</mark> and uses <mark>Amazon S3</mark> for data storage.
+
+      - layout: left
+        title: MobPro
+        link: mobpro.com
+        sub_title: Software Developer
+        caption: April 2016 - April 2018
+        description: | # this will include new lines to allow paragraphs
+            I worked as part of an agile team building and maintaining an in-house Real-Time Bidding platform.
+            The bidder was written in <mark>Django/Python</mark> and used <mark>redis</mark>, <mark>MongoDB</mark> and <mark>BigQuery/SQL</mark> for data storage, <mark>Kafka</mark> for real-time stream processing and <mark>Graphite</mark> for monitoring.
+
+            I lead and implemented the integration with AppNexus. I also implemented a system that would submit creatives to AppNexus for auditing before running on AppNexus real-time inventory.
+
+            I created various features for the internal campaign management platform written in <mark>Django/Python</mark>. The platform used <mark>Postgres</mark> for data storage.
+
+            In addition, I conducted analyses on <mark>BigQuery</mark> and <mark>Pandas/Python</mark> related to the longevity and suitability of Advertising IDs for targeting.
+
+            For version control, I used <mark>mercurial</mark>.
+
+      - layout: left
+        title: White Lionness Technologies
+        link: packhunt.io
+        # link_text: boringcompany.com
+        sub_title: Software Developer
+        caption: January 2015 - April 2016
+        description: | # this will include new lines to allow paragraphs
+            I worked on a project aiming to facilitate and priority the physical inspection of 300,000 earthquake-hit buildings in the Groningen area.
+            The project involved developing classification algorithms for building footprints and roof shapes, as well as proof-of-concepts for detecting high-risk elements on buildings, such as chimneys and parapets.
+
+            Based on <mark>pandas</mark>, <mark>scikit-learn</mark> and <mark>OpenCV</mark> books in the office library, I implemented proof-of-concept algorithms for traffic sign classification, postbox detection on doors, and 3D reconstruction of buildings from Google Street View images.
+            I also wrote a 200-page report that was submitted to the Arup construction company.
+
+            In addition, I participated in hackathons and won 3rd at the Open Data Battle competition (Dutch Ministry of Infrastructure) for creating a route planner web app in <mark>Django/Python</mark> within the limited frame of 10 days.
+
+      - layout: left
+        title: Delft University
+        link: tudelft.nl/en/
+        link_text: tudelft.nl
+        caption: 2011 - 2015
+        sub_title: Doctoral Studies in Structural Engineering
+        description: | # this will include new lines to allow paragraphs
+          My studies focused on the modeling of the interaction between flowable concrete and a poker vibrator to identify optimal operating frequencies.
+
+          I also conducted experiments on air bubbles in concrete under vibration to validate and fine-tune the model.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Delft University
+        link: tudelft.nl/en/
+        link_text: tudelft.nl
+        caption: 2009 - 2012
+        sub_title: Master of Science in Structural Engineering
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          My masters' thesis focused on the modeling of vibrations of a vertical water transport systems. It lead to the following publication:
+          [N. Oikou, Vortex-induced vibration of a slender single-span cylinder, Heron, Vol. 59 (2014) No. 1, pp. 1-15.](http://heronjournal.nl/59-1/1.pdf)
+
+          For my studies, I used software for symbolic and analytical computation such as <mark>Maple</mark> and <mark>MATLAB</mark>.
+
+          For my thesis, I used <mark>Fortran</mark> and <mark>Visual Studio</mark>.
+
+      - layout: left
+        title: Democritus University
+        link: duth.gr/en
+        link_text: duth.gr
+
+        caption: 2001 - 2007
+        sub_title: Bachelor & Master of Science in Geotechnical Engineering
+        description: | # this will include new lines to allow paragraphs
+          My masters' thesis focused on the application of geoelectrical tomography to study the Nestos River area in Greece.
+
+  - title: Languages
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Greek (native)
+      - English (professional)
+      - Dutch (professional)
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I am a proud father of three and love to spend time with my family.
+
+      I am also a musician. I play guitar in a guitar quartet and the piano at my children’s school.
+
+      In addition to my interests in software engineering, I enjoy exploring other areas such as classical music, chess, and mathematics.
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
