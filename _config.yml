@@ -25,7 +25,7 @@ about_content: | # this will include new lines to allow paragraphs
   I give meticulous attention to detail, accuracy, and always strive to develop a deep understanding of task requirements. 
 
   I aspire to be rock-solid reliable and consider myself a main contributor to the success of my team.
-  I encourage the spirit of teamwork and collaboration.
+  I encourage a spirit of teamwork and collaboration.
 
   I am proud of my work on Disney projects within SambaTV, where I have been recognized for delivering exceptional results that not only meet but often exceed expectations.
   I possess a great ability to translate product features into tangible tasks, which has helped the Identity Team at SambaTV achieve most of its business goals.
@@ -61,7 +61,7 @@ content:
             My first job as a data engineer. I had applied for a data analyst role, but I was told during the interview process that I had the right skills and experience to be a data engineer, and that I would be a great fit for the team.
 
             I co-developed the TV Households US Graph, which serves as the backbone of all Identity, Audience and  Measurement at SambaTV.
-            I independently developed the Private Cross-Device Graph for Disney, which is the backbone of Measurement SambaTV does for Disney, and is also the backbone of all Partner integrations SambaTV embarks on with Disney.
+            I independently developed the Private Cross-Device Graph for Disney, which is the backbone of Measurement SambaTV does for Disney, and is also the backbone of all partner integrations SambaTV embarks on with Disney.
 
             I represented tech in various client communication meetings, and have participated in numerous engineer interviews.
 
@@ -79,12 +79,12 @@ content:
             I also ran analyses related to the game economy and banner performance of the MyHospital Mobile App. The data were stored in <mark>Vertica</mark> via the DeltaDNA platform.
 
             In collaboration with a front-end developer, I created a custom PHP dashboard that serves all Kuuhubb reporting.
-            The data wre stored in <mark>Postgres</mark>.
+            The data were stored in <mark>Postgres</mark>.
             I created a RESTful API that pre-aggregated finance and app user statistics. For the backend, I used <mark>Tornado/Python</mark>, for the data storage <mark>MySQL</mark>, <mark>Postman</mark> for testing, and deployed the API on <mark>Heroku</mark>.
 
             I worked on the backend maintenance of the Recolor App, which uses <mark>Tornado/Python</mark>, <mark>Amazon RDS</mark> and <mark>Firebase</mark>.
 
-            I also worked on the backend maintenance of the Perfect Earth Mobile App, which is written in <mark>Djano/Python</mark> and uses <mark>Amazon S3</mark> for data storage.
+            I also worked on the backend maintenance of the Perfect Earth Mobile App, which is written in <mark>Django/Python</mark> and uses <mark>Amazon S3</mark> for data storage.
 
       - layout: left
         title: MobPro
@@ -141,7 +141,7 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-          My masters' thesis focused on the modeling of vibrations of a vertical water transport systems. It lead to the following publication:
+          My master's thesis focused on the modeling of vibrations of a vertical water transport systems. It lead to the following publication:
           [N. Oikou, Vortex-induced vibration of a slender single-span cylinder, Heron, Vol. 59 (2014) No. 1, pp. 1-15.](http://heronjournal.nl/59-1/1.pdf)
 
           For my studies, I used software for symbolic and analytical computation such as <mark>Maple</mark> and <mark>MATLAB</mark>.
@@ -156,7 +156,7 @@ content:
         caption: 2001 - 2007
         sub_title: Bachelor & Master of Science in Geotechnical Engineering
         description: | # this will include new lines to allow paragraphs
-          My masters' thesis focused on the application of geoelectrical tomography to study the Nestos River area in Greece.
+          My master's thesis focused on the application of geoelectrical tomography to study the Nestos River area in Greece.
 
   - title: Languages
     layout: text
