@@ -22,15 +22,14 @@ linkedin_username: nikosoikou
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   As a senior data engineer with experience in various data platforms, frameworks, and languages, I am committed to maintaining an exceptional standard of work quality.
-  I give meticulous attention to detail, accuracy, and always strive to develop a deep understanding of task requirements. 
+  I give meticulous attention to detail, accuracy, and always strive to develop a deep understanding of task requirements.
 
-  I aspire to be rock-solid reliable and consider myself a main contributor to the success of my team.
-  I encourage a spirit of teamwork and collaboration.
+  I am a rock-solid reliable team player and consider myself a main contributor to the success of my team. I encourage a spirit of teamwork and collaboration.
 
   I am proud of my work on Disney projects within SambaTV, where I have been recognized for delivering exceptional results that not only meet but often exceed expectations.
   I possess a great ability to translate product features into tangible tasks, which has helped the Identity Team at SambaTV achieve most of its business goals.
 
-  I am always eager to take on challenging projects that allow me to further develop my skills and contribute to a team’s success.
+  I have a passion for automation and am always eager to take on challenging projects that allow me to further develop my skills and contribute to a team’s success.
 
 content:
   - title: Experience # Title for the section
@@ -74,15 +73,15 @@ content:
         sub_title: Data Scientist
         caption: April 2018 - August 2019
         description: | # this will include new lines to allow paragraphs
-            - Collaborated with a Growth Strategy Manager to run analyses on pricing, retention and churn for the Recolor Mobile App.
-            The data were extracted from platforms such as iTunes Connect, Google Play Console and Tenjin and analyzed using <mark>BigQuery/SQL</mark>, <mark>Jupyter/Python</mark> and <mark>Mode Analytics/SQL</mark>.
+            - Collaborated with a growth strategy manager to run analyses on pricing, retention and churn for the Recolor Mobile App.
+            The data were extracted from platforms such as iTunes Connect, Google Play Console and Tenjin and analyzed using <mark>BigQuery/SQL</mark>, <mark>pandas</mark>,
+            <mark>Jupyter/Python</mark> and <mark>Mode Analytics/SQL</mark>.
 
             - Ran analyses related to the game economy and banner performance of the My Hospital Mobile App. The data were stored in <mark>Vertica</mark> through the DeltaDNA platform.
 
-            - In collaboration with a front-end developer, I created a custom <mark>PHP</mark> dashboard that serves all Kuuhubb reporting.
-            The data were stored in <mark>Postgres</mark>.
+            - In collaboration with a front-end developer, I created a custom <mark>PHP</mark> dashboard that serves all Kuuhubb reporting. The data were stored in <mark>Postgres</mark>.
             I created a RESTful API that pre-aggregated finance and app user statistics. For the backend, I used <mark>Tornado/Python</mark>, for the data storage <mark>MySQL</mark>, <mark>Postman</mark> for testing,
-            and deployed the API on <mark>Heroku</mark>.
+            and deployed the app on <mark>Heroku</mark>.
 
             - Worked on the backend maintenance of the Recolor App, which uses <mark>Tornado/Python</mark>, <mark>Amazon RDS</mark> and <mark>Firebase</mark>,
             and on the backend maintenance of the Perfect Earth Mobile App, which is written in <mark>Django/Python</mark> and uses <mark>Amazon S3</mark> for data storage.
@@ -99,8 +98,8 @@ content:
 
             - Lead and implemented the integration with AppNexus. I also implemented a system that would submit creatives to AppNexus for auditing before running on AppNexus real-time inventory.
 
-            - Created various features for the internal campaign management platform written in <mark>Django/Python</mark>. The platform used <mark>Postgres</mark> for data storage.
-            For version control, I used <mark>mercurial</mark>.
+            I implemented various extensions to the internal campaign management platform using <mark>Django/Python</mark>. These extensions included a system to create and manage Facebook Audiences and extensions for geotargeting.
+            The platform used <mark>Postgres</mark> for data storage, and for version control I used <mark>Mercurial</mark>.
 
             - Conducted analyses on <mark>BigQuery/SQL</mark> and <mark>Pandas/Python</mark> related to the longevity and suitability of Mobile advertising IDs for tracking and targeting.
 
@@ -111,7 +110,7 @@ content:
         sub_title: Software Developer
         caption: January 2015 - April 2016
         description: | # this will include new lines to allow paragraphs
-            - Worked on a project aiming to facilitate and priority the physical inspection of 300,000 earthquake-hit buildings in the Groningen area.
+            - Worked on a project aiming to facilitate and prioritize the physical inspection of 300,000 earthquake-hit buildings in the Groningen area.
             The project involved developing classification algorithms for building footprints and roof shapes, as well as proof-of-concepts for detecting high-risk elements on buildings, such as chimneys and parapets.
 
             - Based on <mark>pandas</mark>, <mark>scikit-learn</mark> and <mark>OpenCV</mark> books in the office library, I implemented proof-of-concept algorithms for traffic sign classification, postbox detection on doors,
