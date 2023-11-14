@@ -98,7 +98,7 @@ content:
 
             - Lead and implemented the integration with AppNexus. I also implemented a system that would submit creatives to AppNexus for auditing before running on AppNexus real-time inventory.
 
-            I implemented various extensions to the internal campaign management platform using <mark>Django/Python</mark>. These extensions included a system to create and manage Facebook Audiences and extensions for geotargeting.
+            - Implemented various extensions to the internal campaign management platform using <mark>Django/Python</mark>. These extensions included a system to create and manage Facebook Audiences and extensions for geotargeting.
             The platform used <mark>Postgres</mark> for data storage, and for version control I used <mark>Mercurial</mark>.
 
             - Conducted analyses on <mark>BigQuery/SQL</mark> and <mark>Pandas/Python</mark> related to the longevity and suitability of Mobile advertising IDs for tracking and targeting.
