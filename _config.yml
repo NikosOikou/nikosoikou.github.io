@@ -43,7 +43,7 @@ content:
         caption: October 2022 - Present
         description: | # this will include new lines to allow paragraphs
             - Leading a team of seven, providing guidance and support to two data engineers and three of our newest team members, including our two interns and a senior data scientist.
-            I'm taking on the role of a mentor, offering all the help these newcomers need and ensuring that I answer their questions at a level that matches their individual backgrounds and experience levels.
+
             - Responsible for the design and implementation of all our Identity solutions within SambaTV, by leveraging data processing frameworks such as <mark>BigQuery/SQL</mark>.
 
             - Worked on extending the Private Device Graph to integrate HEM data and on migrating the workflow management to <mark>Apache Airflow</mark>.
@@ -56,13 +56,8 @@ content:
         sub_title: Data Engineer
         caption: September 2019 - September 2022
         description: | # this will include new lines to allow paragraphs
-            - My first job as a data engineer. I had applied for a data analyst role, but I was told during the interview process that I had the right skills and experience to be a data engineer,
-            and that I would be a great fit for the team.
-
             - Co-developed the TV Households US Graph, which serves as the backbone of all Identity, Audience and  Measurement at SambaTV.
             I independently developed the Private Cross-Device Graph for Disney, which is the backbone of Measurement SambaTV does for Disney, and is also the backbone of all partner integrations SambaTV embarks on with Disney.
-
-            - Represented tech in various client communication meetings, and have participated in numerous engineer interviews.
 
             - The tech stack I used includes cloud platforms such as <mark>Google Cloud Platform</mark> and <mark>Amazon Web Services</mark>, the programming languages <mark>Python</mark>, <mark>node.js/JavaScript</mark>,
             <mark>CoffeeScript</mark> and <mark>SQL</mark> and data processing frameworks like <mark>BigQuery/SQL</mark>, <mark>Amazon Athena/SQL</mark>, <mark>Databricks</mark> and <mark>Apache Airflow</mark>.
